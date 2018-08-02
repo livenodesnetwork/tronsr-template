@@ -1,14 +1,6 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: LiveNodesNetwork  :smile: Yes, anonymous for now.
+Role: Founder and contributor and tester
 
-## Team Member 1
-
-Name: [name]
-Role: [role]
-
-## Team Member 2
-
-Name: [name]
-Role: [role]
+Team names will be published as team grows.
