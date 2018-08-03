@@ -1,1 +1,1 @@
-The initial investment is small, a node running in a cloud but as the number of votes increases, LiveNodesNetwork will start building  new servers as per TRON guidelines, estimates expenses would depend upon infrastructure build, and it will inline with TRON suggested budget
+The initial investment is small, a node running in a cloud but as the number of votes increases, LiveNodesNetwork will start building  new servers as per TRON guidelines, estimated expenses would depend upon infrastructure build, and it will inline with TRON suggested budget
