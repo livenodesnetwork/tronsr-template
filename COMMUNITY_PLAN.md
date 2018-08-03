@@ -1,3 +1,3 @@
-LiveNodesNetwork is working to bring intellectuals from different fields to contribute to TRON blockchain. The contribution can be in the form of business ideas, the future of TRON software technologies or any other ways.
+LiveNodesNetwork is working to bring intellectuals from verious different fields to contribute to TRON blockchain. Wer want to be a think tank for TRON. Teams contribution can be in the form of business ideas, the future of TRON software technologies or in any other ways.
 
-The rewards from SR will be used for operating expenses and bring intellectuals from different fields together. 
+The rewards from SR will be used for operating expenses and bring intellectuals, the Think Tank from verious different fields together.
